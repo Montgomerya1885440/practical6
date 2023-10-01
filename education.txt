@@ -1,0 +1,6 @@
+input:  expected ouput:                                                                    actual output:
+2       You have achieved primary education.                                               You have achieved primary education.
+9       You have achieved Secondary level education.                                       You have achieved Secondary level education.
+100     You have achieved Tertiary level education.                                        You have achieved Tertiary level education.
+-289    Invalid input. Please enter a positive interger representing years in education.   Invalid input. Please enter a positive interger representing years in education.
+

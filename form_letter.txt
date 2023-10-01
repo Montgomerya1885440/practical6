@@ -1,0 +1,4 @@
+Name          Age  Fraction    Output
+Susan Melon   53   0.7         Your name is Susan Melon, you are 53 years old and your employment fraction is 0.87. 
+Will Jackon   83   0.2         Your name is Will Jackon, you are 83 years old and your employment fraction is 0.2. 
+Jarrad Long   4    0.98        Your name is Jarrad Long, you are 4 years old and your employment fraction is 0.98. 

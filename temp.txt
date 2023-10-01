@@ -1,0 +1,5 @@
+input   expected output                                         actual output
+0       0 degrees Celsius is 32 Fahrenheit                      0 degrees Celsius is 32 Fahrenheit
+10      10 degrees Celsius is 50 Fahrenheit                     10 degrees Celsius is 50 Fahrenheit
+-17     -17 degrees Celsius is 1.4 Fahrenheit                   -17 degrees Celsius is 1.4 Fahrenheit
+

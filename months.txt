@@ -1,0 +1,5 @@
+
+input:  output:
+3       Mar
+9       Sep
+12      Dec
